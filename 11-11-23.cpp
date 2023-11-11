@@ -3,8 +3,7 @@ using namespace std;
 int main(){
     
 
-
-int al;
+int a1;
 
 
 
