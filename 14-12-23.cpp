@@ -26,4 +26,3 @@ vector<int> postorderTraversal(TreeNode *root)
     fun(root,arr);
     return arr;
 
-}
