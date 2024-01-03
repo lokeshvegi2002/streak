@@ -24,5 +24,4 @@ vector<int> postorderTraversal(TreeNode *root)
     // Write your code here.
     vector<int> arr;
     fun(root,arr);
-    return arr
-
+    return ar
